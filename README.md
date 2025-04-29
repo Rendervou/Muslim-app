@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to your Muslim App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is Muslim App Created by muhammad Al Fathi Ahyan, In this app we provide prayer task, real time prayer schedule, prayer task and dzikr
 
 ## Get started
 
